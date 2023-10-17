@@ -1,6 +1,6 @@
 import random
 
-lista_palavras = ["python", "programacao", "jogos", "desenvolvimento", "computador", "tecnologia"]
+lista_palavras = ["sport", "nautico", "sao paulo", "cruzeiro", "vasco", "brasil"]
 
 palavra = random.choice(lista_palavras)
 tentativas = 4
